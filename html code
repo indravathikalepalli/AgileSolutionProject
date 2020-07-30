@@ -1,4 +1,4 @@
-<br/><!-- Just so that JSFiddle's Result label doesn't overlap the Chart -->
+<br/>
 Categories : <select class="dropdown" id="dd">
   <option value="" selected="selected">Select category</option>
     <option value="dps1">Spaghetti</option>
