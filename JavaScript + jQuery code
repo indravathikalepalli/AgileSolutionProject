@@ -1,0 +1,146 @@
+var jsonData = {
+"dps1": [
+    { "x": new Date(2000,0), "y": 500 },
+    { "x": new Date(2000,1), "y": 600 },
+    { "x": new Date(2000,2), "y": 700 },
+    { "x": new Date(2000,3), "y": 800 },
+    { "x": new Date(2000,4), "y": 900 },
+],
+"dps2": [
+     { "x": new Date(2000,0), "y": 900 },
+    { "x": new Date(2000,1), "y": 500 },
+    { "x": new Date(2000,2), "y": 600 },
+    { "x": new Date(2000,3), "y": 700 },
+    { "x": new Date(2000,4), "y": 800 },
+],
+"dps3": [
+    { "x": new Date(2000,0), "y":1100 },
+    { "x": new Date(2000,1), "y": 1500 },
+    { "x": new Date(2000,2), "y": 7100 },
+    { "x": new Date(2000,3), "y": 2500},
+    { "x": new Date(2000,4), "y": 7410 },
+],
+"dps4": [
+   { "x": new Date(2000,0), "y": 500 },
+    { "x": new Date(2000,1), "y": 4770 },
+    { "x": new Date(2000,2), "y": 7410 },
+    { "x": new Date(2000,3), "y": 5000 },
+    { "x": new Date(2000,4), "y": 8000 },
+],
+"dps5": [
+   { "x": new Date(2000,0), "y": 7410 },
+    { "x": new Date(2000,1), "y":8500 },
+    { "x": new Date(2000,2), "y": 500 },
+    { "x": new Date(2000,3), "y": 8700 },
+    { "x": new Date(2000,4), "y": 5000 },
+],
+"dps6": [
+   { "x": new Date(2000,0), "y": 7418 },
+    { "x": new Date(2000,1), "y":850 },
+    { "x": new Date(2000,2), "y": 5002 },
+    { "x": new Date(2000,3), "y": 8700 },
+    { "x": new Date(2000,4), "y": 5000 },],
+"dps7": [
+   { "x": new Date(2000,0), "y": 1542 },
+    { "x": new Date(2000,1), "y":8500 },
+    { "x": new Date(2000,2), "y": 4560 },
+    { "x": new Date(2000,3), "y": 8700 },
+    { "x": new Date(2000,4), "y": 500 },],
+"dps8": [
+   { "x": new Date(2000,0), "y": 7350 },
+    { "x": new Date(2000,1), "y":1850 },
+    { "x": new Date(2000,2), "y": 500 },
+    { "x": new Date(2000,3), "y": 870 },
+    { "x": new Date(2000,4), "y": 50 },],
+"dps7": [
+   { "x": new Date(2000,0), "y": 4570 },
+    { "x": new Date(2000,1), "y":8600 },
+    { "x": new Date(2000,2), "y": 5125 },
+    { "x": new Date(2000,3), "y": 7856 },
+    { "x": new Date(2000,4), "y": 2500 },],
+"dps8": [
+   { "x": new Date(2000,0), "y": 7418 },
+    { "x": new Date(2000,1), "y":850 },
+    { "x": new Date(2000,2), "y": 5002 },
+    { "x": new Date(2000,3), "y": 8700 },
+    { "x": new Date(2000,4), "y": 5000 },],
+"dps9": [
+   { "x": new Date(2000,0), "y": 4500 },
+    { "x": new Date(2000,1), "y":4521 },
+    { "x": new Date(2000,2), "y": 7854 },
+    { "x": new Date(2000,3), "y": 7851 },
+    { "x": new Date(2000,4), "y": 500 },],
+"dps10": [
+   { "x": new Date(2000,0), "y": 7418 },
+    { "x": new Date(2000,1), "y":850 },
+    { "x": new Date(2000,2), "y": 5002 },
+    { "x": new Date(2000,3), "y": 8700 },
+    { "x": new Date(2000,4), "y": 5000 },],
+"dps11": [
+   { "x": new Date(2000,0), "y": 7418 },
+    { "x": new Date(2000,1), "y":857 },
+    { "x": new Date(2000,2), "y": 50 },
+    { "x": new Date(2000,3), "y": 870 },
+    { "x": new Date(2000,4), "y": 500 },],
+"dps12": [
+   { "x": new Date(2000,0), "y": 7418 },
+    { "x": new Date(2000,1), "y":850 },
+    { "x": new Date(2000,2), "y": 500 },
+    { "x": new Date(2000,3), "y": 8700 },
+    { "x": new Date(2000,4), "y": 5000 },],
+"dps13": [
+   { "x": new Date(2000,0), "y": 7418 },
+    { "x": new Date(2000,1), "y":8500 },
+    { "x": new Date(2000,2), "y": 5002 },
+    { "x": new Date(2000,3), "y": 8700 },
+    { "x": new Date(2000,4), "y": 5000 },],
+"dps14": [
+   { "x": new Date(2000,0), "y": 7418 },
+    { "x": new Date(2000,1), "y":850 },
+    { "x": new Date(2000,2), "y": 3500 },
+    { "x": new Date(2000,3), "y": 7851 },
+    { "x": new Date(2000,4), "y": 5000 },],
+"dps15": [
+   { "x": new Date(2000,0), "y": 1235 },
+    { "x": new Date(2000,1), "y":550 },
+    { "x": new Date(2000,2), "y": 5423 },
+    { "x": new Date(2000,3), "y": 8700 },
+    { "x": new Date(2000,4), "y": 5000 },]
+}
+var dataPoints = [];
+var chart = new CanvasJS.Chart("chartContainer",
+{
+	axisX: {
+  	valueFormatString: "MMM",
+    intervalType: 'month',
+    interval:1
+  },
+	data: [{
+    showInLegend: true,
+    type: 'column',
+    xValueType: "month",
+    showInLegend: true,
+    name: "series1",
+    legendText: "Product",
+    dataPoints: dataPoints 
+
+	}]
+});
+
+$( ".dropdown" ).change(function() {
+	chart.options.data[0].dataPoints = [];
+  var e = document.getElementById("dd");
+	var selected = e.options[e.selectedIndex].value;
+  dps = jsonData[selected];
+  var f = document.getElementById("dd1");
+	var select = f.options[f.selectedIndex].value;
+  dds = jsonData[select];
+  var g = document.getElementById("dd2");
+	var selecte = g.options[g.selectedIndex].value;
+  dpd = jsonData[selecte];
+  for(var i in dps) {
+  	var xVal = dps[i].x;
+    chart.options.data[0].dataPoints.push({x: new Date(xVal), y: dps[i].y+dpd[i].y+dds[i].y});
+  }
+  chart.render();
+});
