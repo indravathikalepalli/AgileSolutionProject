@@ -1,0 +1,28 @@
+<br/><!-- Just so that JSFiddle's Result label doesn't overlap the Chart -->
+Categories : <select class="dropdown" id="dd">
+  <option value="" selected="selected">Select category</option>
+    <option value="dps1">Spaghetti</option>
+    <option value="dps2">Brusehetta</option>
+    <option value="dps3">Pasta</option>
+    <option value="dps4">Lasagna</option>
+    <option value="dps5">Pizza</option>
+</select><t></t>
+Products : <select class="dropdown" id="dd1">
+  <option value="" selected="selected">Select Products</option>
+    <option value="dps6">Laptop</option>
+    <option value="dps7">Harddisk</option>
+    <option value="dps8">Pendrive</option>
+    <option value="dps9">Speaker</option>
+    <option value="dps10">PC</option>
+</select>
+Brand : <select class="dropdown" id="dd2">
+  <option value="" selected="selected">Select Serial Number</option>
+    <option value="dps11">Lenovo</option>
+    <option value="dps12">Apple</option>
+    <option value="dps13">Acer</option>
+    <option value="dps14">Asus</option>
+    <option value="dps15">Dell</option>
+</select>
+ <h2 style="text-align:center;">Sales By Month For</h2>
+
+<div id="chartContainer" style="height: 360px; width: 100%;"></div>
