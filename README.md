@@ -1,2 +1,2 @@
 # AgileSolutionProject
-I have used html, JavaScript and jquery v 3.1.1
+I have used html, JavaScript and jQuery v 3.1.1
